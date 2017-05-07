@@ -35,6 +35,8 @@ Example:
             }
         };
         
+        v.validateForm(validationOptions);
+        
         
 
 
