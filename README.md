@@ -1,5 +1,5 @@
 # Simple Form Validator
-simple javascript validator based on elements id and works with json configuration
+Simple javascript validator based on elements id and works with json configuration
 
 Example:
 
